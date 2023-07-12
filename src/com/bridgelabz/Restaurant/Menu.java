@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.Restaurant;
 
 public class Menu {
     private String menuName;

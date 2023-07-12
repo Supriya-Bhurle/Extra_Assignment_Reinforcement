@@ -1,4 +1,4 @@
-package com.bridgelabz;
+package com.bridgelabz.Book;
 
 import java.util.ArrayList;
 

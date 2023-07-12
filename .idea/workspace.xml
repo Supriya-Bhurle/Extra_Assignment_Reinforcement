@@ -2,28 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75e1ade8-236d-434f-b80f-b008d7e4f9cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExtraAssignment_PracticeProbelm_Reinforcement.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/BookStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Doctor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Hospital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/HospitalMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Patient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/PatientManagement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/RestaurantMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/LinkedListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/PriorityQueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/BookStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Book/BookStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/hospital/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/hospital/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/HospitalMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/hospital/HospitalMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Restaurant/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Patient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/hospital/Patient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/PatientManagement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/hospital/PatientManagement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/Restaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Restaurant/Restaurant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/RestaurantMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/Restaurant/RestaurantMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

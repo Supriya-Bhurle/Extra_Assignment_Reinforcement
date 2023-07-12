@@ -1,4 +1,7 @@
-package com.bridgelabz;
+package com.bridgelabz.hospital;
+
+import com.bridgelabz.hospital.Hospital;
+import com.bridgelabz.hospital.Patient;
 
 import java.util.ArrayList;
 import java.util.List;

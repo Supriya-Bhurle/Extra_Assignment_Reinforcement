@@ -1,6 +1,6 @@
-package com.bridgelabz;
+package com.bridgelabz.hospital;
 
-import java.util.List;
+import com.bridgelabz.hospital.Hospital;
 
 public class Patient {
     private String name;

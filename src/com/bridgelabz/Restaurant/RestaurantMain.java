@@ -1,4 +1,6 @@
-package com.bridgelabz;
+package com.bridgelabz.Restaurant;
+
+import com.bridgelabz.Restaurant.Restaurant;
 
 public class RestaurantMain {
     public static void main(String[] args) {
